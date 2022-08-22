@@ -1,3 +1,3 @@
-Titanic ship disaster analyis
+Titanic - Machine Learning from Disaster
 * EDA
 * Model training
